@@ -1,5 +1,5 @@
 {
-    "name": "simple-xmpp",
+    "name": "@ng.huyy/simple-xmpp",
     "version": "2.3.1",
     "directories": {
         "lib": "./lib"
