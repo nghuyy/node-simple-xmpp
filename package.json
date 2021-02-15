@@ -1,6 +1,6 @@
 {
     "name": "@ng.huyy/simple-xmpp",
-    "version": "2.3.1",
+    "version": "2.3.2",
     "directories": {
         "lib": "./lib"
     },
@@ -25,7 +25,7 @@
         }
     ],
     "dependencies": {
-        "node-xmpp-client": "^3.0.0",
+        "@ng.huyy/node-xmpp-client": "^3.2.0",
         "qbox": "0.1.x"
     },
     "devDependencies": {
